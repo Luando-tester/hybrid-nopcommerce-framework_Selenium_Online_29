@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaSDET/JavaSDET.iml" filepath="$PROJECT_DIR$/JavaSDET/JavaSDET.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hybrid-nopcommerce-framework.iml" filepath="$PROJECT_DIR$/hybrid-nopcommerce-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSDET/phuongKhueTrang/phuongKhueTrang.iml" filepath="$PROJECT_DIR$/JavaSDET/phuongKhueTrang/phuongKhueTrang.iml" />
+    </modules>
+  </component>
+</project>
